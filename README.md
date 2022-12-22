@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @EmConstant
 - 👀 I’m interested in programming and tech.
-- 🌱 I’m currently learning C, C++, C# and SqL.
+- 🌱 I’m currently learning  C++, HTML, CSS, JavaScript, React and SqL.
 - 💞️ I’m looking to collaborate on some easy projects, adapted to my level from this moment.
 - 📫 How to reach me: email => emil.constantinn@gmail.com 
 
